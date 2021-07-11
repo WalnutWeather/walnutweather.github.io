@@ -6,7 +6,7 @@ Tornado: #cc1d1d
 Flood: #1d69cc
 -->
 
-![WWS](https://walnutweather.com/public/img/WWS.webp)
+![WWS](https://walnutweather.com/public/img/WWS.png)
 
 # Active Weather Alerts
 
