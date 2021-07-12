@@ -24,7 +24,7 @@ We are a brand new weather service that operates in Carlisle, Pennsylvania. We p
 
 # Inactive Weather Alerts
 
-<h4 style="test-align: center">1 <span style="color:#cc1d1d">Inactive</span> Weather Alerts</h4>
+<!-- <h4 style="test-align: center">1 <span style="color:#cc1d1d">Inactive</span> Weather Alerts</h4> -->
 <h5 style="test-align: center; color:#cc661d">Severe Thunderstorm Watch</h5>
 <h6>Effective Time: <span style="color:#5dcc1d">July 11th @ 3:30 PM EDT</span> to <span style="color:#cc1d1d">10:00 PM EDT</span></h6>
 <h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
