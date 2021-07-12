@@ -9,9 +9,20 @@ Flood: #1d69cc
 
 # Active Weather Alerts
 
-<h4 style="test-align: center">No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>
-<!-- <h4 style="test-align: center">1 <span style="color:#cc1d1d">Active</span> Weather Alert</h4> -->
-<!-- <span /> -->
+<!-- <h4 style="test-align: center">No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>-->
+<h4 style="test-align: center">2 <span style="color:#cc1d1d">Active</span> Weather Alert</h4>
+<span />
+<h5 style="test-align: center; color:#cc661d">Severe Thunderstorm Watch</h5>
+<h6>Effective Time: <span style="color:#5dcc1d">July 12th @ 3:30 PM EDT</span> to <span style="color:#cc1d1d">8:30 PM EDT</span></h6>
+<h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
+<h6>Additional Details: At 2:51 PM EDT, doppler radar indicated a thunderstorm moving North East at unknown speeds. This thunderstorm can produce high winds and heavy rain which can result it in becoming a severe thunderstorm. Please stay indoors to stay safe during a thunderstorm.</h6>
+<h6>Last Updated: July 12th, 2021 @ 2:53:18 PM EDT</h6>
+<span />
+<h5 style="test-align: center; color:#1d69cc">Flash Flood Watch</h5>
+<h6>Effective Time: <span style="color:#5dcc1d">July 12th @ 3:30 PM EDT</span> to <span style="color:#cc1d1d">8:30 PM EDT</span></h6>
+<h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
+<h6>Additional Details: At 2:51 PM EDT, doppler radar indicated a thunderstorm moving North East at unknown speeds. This thunderstorm can produce heavy rain which can result in a flash flood.</h6>
+<h6>Last Updated: July 12th, 2021 @ 2:53:18 PM EDT</h6>
 
 # Recent News
 
