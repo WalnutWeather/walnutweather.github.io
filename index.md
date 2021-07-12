@@ -10,9 +10,9 @@ Flood: #1d69cc
 # Active Weather Alerts
 
 <!--<h4 style="test-align: center">No <span style="color:#5dcc1d">Active</span> Weather Alerts</h4>-->
-<h4 style="test-align: center">1 <span style="color:#ad4a03">Active</span> Weather Alert</h4>
+<h4 style="test-align: center">1 <span style="color:#cc1d1d">Active</span> Weather Alert</h4>
 <span />
-<h5 style="test-align: center; color:#cc661d">Severe Thunderstorm Warning</h5>
+<h5 style="test-align: center; color:#ad4a03">Severe Thunderstorm Warning</h5>
 <h6>Effective Time: <span style="color:#5dcc1d">July 11th @ 8:50 PM EDT</span> to <span style="color:#cc1d1d">10:00 PM EDT</span></h6>
 <h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
 <h6>Additional Details: At 8:48 PM EDT, doppler radar indicated a thunderstorm nearing Carlisle, moving North East at unknown speeds. This thunderstorm has been confirmed to have heavy rain and pontenially hail. Please stay indoors to stay safe during a thunderstorm.</h6>
