@@ -17,7 +17,8 @@ Flood: #1d69cc
 <h6>Affected Areas: <span style="color:#cc1d1d">Carlisle</span></h6>
 <h6>Additional Details: At 2:51 PM EDT, doppler radar indicated a thunderstorm moving North East at unknown speeds. This thunderstorm can produce high winds and heavy rain which can result it in becoming a severe thunderstorm. Please stay indoors to stay safe during a thunderstorm.</h6>
 <h6>Last Updated: July 12th, 2021 @ 2:53:18 PM EDT</h6>
-<span /> -->
+<span /> 
+-->
 
 # Recent News
 
